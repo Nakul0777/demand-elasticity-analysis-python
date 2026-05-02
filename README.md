@@ -27,10 +27,10 @@ This project analyzes the relationship between price and quantity demanded acros
 #  Visualizations
 
 #Elasticity Distribution
-![Boxplot](boxplot.png)
+![Boxplot](boxplot.png.png)
 
 ### Log-Log Demand Relationship
-![Scatter](log_scatter.png)
+![Scatter](log_scatter.png.png)
 
 
 #  Project Structure
